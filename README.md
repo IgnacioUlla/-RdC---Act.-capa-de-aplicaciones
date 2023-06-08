@@ -1,6 +1,6 @@
 # [Redes de Computadoras] - Act. capa de aplicaciones
 
-## Grupo 'Los Backups'
+## Grupo 'Los Backup'
 
 ### Integrantes
 
